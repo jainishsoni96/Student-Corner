@@ -1,0 +1,42 @@
+SMAP
+albumPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 albumPage.jsp
+Client/albumPage.jsp
++ 1 header.jsp
+Client/included/header.jsp
++ 2 JMenu.jsp
+Client/included/JMenu.jsp
++ 3 Footer.jsp
+Client/Footer/Footer.jsp
+*L
+5,74:56
+5#1,32:129
+78#0,9:160
+5#2,64:168
+69,3:233
+71,3:236
+74,4:240
+77,4:244
+81,2:249
+82,53:251
+86#0,6:303
+92,13:310
+104,7:323
+111:330,5
+112:335
+113:336,6
+114,5:342
+119,8:348
+126,30:356
+156,7:387
+162,3:394
+165,7:397,3
+172,2:418
+174,7:421
+180,39:428
+5#3,77:467
+218#0,3:543
+*E

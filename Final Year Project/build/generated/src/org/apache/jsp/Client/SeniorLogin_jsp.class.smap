@@ -1,0 +1,30 @@
+SMAP
+SeniorLogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 SeniorLogin.jsp
+Client/SeniorLogin.jsp
++ 1 Sheader.jsp
+Client/included/Sheader.jsp
++ 2 SMenu.jsp
+Client/included/SMenu.jsp
++ 3 Footer.jsp
+Client/Footer/Footer.jsp
+*L
+5,192:51
+197,10:244
+206,3:254
+5#1,98:257
+208#0,5:355
+5#2,63:359
+68,3:423
+70,3:426
+73,4:430
+76,4:434
+80,2:439
+81,55:441
+212#0,46:495
+5#3,77:541
+257#0,4:617
+*E

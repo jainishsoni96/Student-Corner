@@ -1,0 +1,30 @@
+SMAP
+JuniorLogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 JuniorLogin.jsp
+Client/JuniorLogin.jsp
++ 1 header.jsp
+Client/included/header.jsp
++ 2 JMenu.jsp
+Client/included/JMenu.jsp
++ 3 Footer.jsp
+Client/Footer/Footer.jsp
+*L
+5,66:51
+5#1,32:117
+70#0,4:148
+83,5:161
+87,4:166
+5#2,64:169
+69,3:234
+71,3:237
+74,4:241
+77,4:245
+81,2:250
+82,53:252
+90#0,41:304
+5#3,77:345
+130#0,4:421
+*E

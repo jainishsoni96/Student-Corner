@@ -1,0 +1,14 @@
+1.	What Progress you have made in the Project ?
+->  We have made client pages for e.g., seniornews.jsp, newsclient.jsp etc and also servlets to handle such pages. These are the pages to display and edit news,assignments,projects etc in our website.
+
+2.	What challenge you have faced ?
+-> We have faced challenges of designing such pages. As we have made layout on our own, we had to make lots of changes in designing client side pages to make it attractive and user-friendly.
+
+3.	What support you need ?
+-> We needed support of our external guide for the designing purpose and also for uploading and downloading of different files, which is a key functionality of our website.
+
+4.	Which literature you have referred ?
+->	https://www.w3schools.com/bootstrap/
+	https://www.tutorialspoint.com/bootstrap/
+	Java Servlet Programming by Hunter and Crawford
+	
